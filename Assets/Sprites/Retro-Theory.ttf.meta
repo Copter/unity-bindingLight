@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 946cf448f1427174aad891385d5fd6be
+timeCreated: 1526222027
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retro-Theory
+  fontNames:
+  - Retro-Theory
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
